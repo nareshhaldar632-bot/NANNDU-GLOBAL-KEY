@@ -1,10 +1,9 @@
-BOT_TOKEN = "8895041943:AAE6epTTqvijtcOjluluN5vzJDTbzmXefjY"
-ADMIN_BOT_TOKEN = "8202728398:AAH-wsXiNAg9o0yeMHRAxEV6xfQ4ETwg_9c"
+BOT_TOKEN = "YOUR_BOT_TOKEN"
 
-CHANNEL_URL = "https://t.me/primesupport_boi"
-CHANNEL_USERNAME = "@Premium_Mods_Reseller"
+ADMIN_ID = 123456789
 
-UPI_ID = "7425974582@ibl"
+UPI_ID = "yourupi@bank"
 
-QR_IMAGE = "qr.jpg"
-ADMIN_ID = "8469175911"
+QR_IMAGE = "qr.png"
+
+CHANNEL_URL = "https://t.me/your_channel"
